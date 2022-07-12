@@ -6,7 +6,7 @@ pkgver=1.0
 pkgrel=1
 pkgdesc="Araste: a tool for converting Persion/Arabic to ASCII art"
 arch(any)
-url="https://github.com/ekm507/araste
+url="https://github.com/ekm507/araste"
 depends=('python3')
 
 # Unfortunately 'makedeb' does not currently support 'priority' & 'section' control field
